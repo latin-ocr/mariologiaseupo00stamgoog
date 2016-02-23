@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mariologiaseupo00stamgoog_0369.png"; bbox 0 0 2718 4556; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 38 1885 1124 2294">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 38 1885 1124 2294">
+     <span class='ocr_line' id='line_1_1' title="bbox 206 1885 835 2055; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 206 1989 208 2000; x_wconf 27' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 306 1885 476 2055; x_wconf 56' lang='lat' dir='ltr'><strong>Pffls</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 519 1885 835 2055; x_wconf 57' lang='lat' dir='ltr'><strong>samma„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 38 2165 1124 2294; baseline -0.002 -31"><span class='ocrx_word' id='word_1_4' title='bbox 38 2165 100 2265; x_wconf 80' lang='lat' dir='ltr'><strong>Be</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 116 2169 323 2294; x_wconf 81' lang='lat' dir='ltr'><strong>Virgine</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 341 2169 559 2294; x_wconf 83' lang='lat' dir='ltr'>Deipara</span> <span class='ocrx_word' id='word_1_7' title='bbox 581 2196 671 2294; x_wconf 86' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 696 2173 836 2268; x_wconf 83' lang='lat' dir='ltr'><strong>statu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 856 2166 1124 2266; x_wconf 78' lang='lat' dir='ltr'><strong>christum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 273 2307 865 2404">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 273 2307 865 2404">
+     <span class='ocr_line' id='line_1_3' title="bbox 273 2307 865 2404; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 273 2308 452 2402; x_wconf 82' lang='lat' dir='ltr'><strong>natum</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 482 2307 865 2404; x_wconf 79' lang='lat' dir='ltr'><strong>concomitante.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1364 4556">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1364 4556">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1364 4556; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1364 4556; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
